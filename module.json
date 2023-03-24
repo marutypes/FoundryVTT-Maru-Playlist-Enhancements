@@ -1,7 +1,7 @@
 {
   "name": "maru-playlist-enhancements",
-  "title": "Maru's Playlist Enhancements - Play Exclusively",
-  "description": "Adds a 'Play Exclusively' button to playlists that plays the selected playlist and stops all other playlists.",
+  "title": "Maru's Playlist Control Enhancements",
+  "description": "Adds a 'Play Exclusively' button to playlists and a 'Stop All' button to the currently playing tab.",
   "version": "automated",
   "library": "false",
   "manifestPlusVersion": "1.2.0",
