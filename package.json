@@ -1,0 +1,26 @@
+{
+    "name": "foundryvtt-maru-playlist-enhancements",
+    "version": "0.1.0",
+    "description": "see module.json",
+    "main": "scripts/main.mjs",
+    "scripts": {
+      "watch": "node watch-and-copy.js ./scripts"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/marutypes/FoundryVTT-Maru-Playlist-Enhancements.git"
+    },
+    "keywords": [
+      "FoundryVTT"
+    ],
+    "author": "Mallory \"Maru\" Allen",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/marutypes/FoundryVTT-Maru-Playlist-Enhancements/issues"
+    },
+    "homepage": "https://github.com/marutypes/FoundryVTT-Maru-Playlist-Enhancements#readme",
+    "devDependencies": {
+      "chokidar": "^3.5.3"
+    }
+  }
+  

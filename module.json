@@ -1,0 +1,31 @@
+{
+  "name": "maru-playlist-enhancements",
+  "title": "Maru's Playlist Enhancements - Play Exclusively",
+  "description": "Adds a 'Play Exclusively' button to playlists that plays the selected playlist and stops all other playlists.",
+  "version": "automated",
+  "library": "false",
+  "manifestPlusVersion": "1.2.0",
+  "compatibility": {
+    "minimum": 10.276,
+    "verified": 10
+  },
+  "authors": [
+    {
+      "name": "Mallory 'Maru' Allen",
+      "discord": "Maru#6806"
+    }
+  ],
+  "esmodules": ["scripts/main.mjs"],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json"
+    }
+  ],
+  "url": "automated",
+  "manifest": "automated",
+  "download": "automated",
+  "license": "LICENSE",
+  "readme": "README.md"
+}
